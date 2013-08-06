@@ -1,0 +1,19 @@
+0.  PNG = 281 trillion colors, JPEG = 16 million, BMP = 16 million, and GIF = 256
+1.  GIF
+2.  Lossless compressions allows users to put the file back together when it needs to be used again. Lossy compressesion you can't access the original file, you can only access the compressed version.
+3.  BMP
+4.  the computer changes the first character in the file's directory to indicate the the file has been deleted and that the address can be recycled. The data file is still intact
+5.  overwrite the data one to two times.
+6.  TODO
+7.  To specify the width of signed and unsigned int types
+8.  8, 32, 32, 16
+9.  In ASCII, the first two bytes are the character 'B' and 'M'
+10. bfSize describes the entire file's size in bytes. biSize is just the size of the BITMAPINFOHEADER struct in bytes
+11. The vertical orientation of the image is top-down
+12. biBitCount
+13. If there is no output file to point to
+14. So that it reads 1 byte at a time
+15. the size of each scanline must be a multiple of 4
+16. Moves to a specified location in the file to seek from
+17. Seeks from currnet location
+18. A Muppet (Ernie?)
